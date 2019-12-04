@@ -1,0 +1,6 @@
+"city","population","coastal"
+"New York",8.6,TRUE
+"Los Angeles",4,TRUE
+"Chicago",2.7,FALSE
+"Houston",2.3,FALSE
+"Washington",NA,NA
