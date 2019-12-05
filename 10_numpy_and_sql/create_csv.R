@@ -1,0 +1,6 @@
+library(nycflights13)
+write.csv(airlines, file = "airlines.csv", row.names = FALSE)
+write.csv(airports, file = "airports.csv", row.names = FALSE)
+write.csv(flights, file = "flights.csv", row.names = FALSE)
+write.csv(planes, file = "planes.csv", row.names = FALSE)
+write.csv(weather, file = "weather.csv", row.names = FALSE)
